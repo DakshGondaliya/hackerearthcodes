@@ -13,6 +13,7 @@ int main()
         {
             cin>>a[i];
         }
+        
         int min = a[0];
         for(int i=1;i<n;i++)
         {
@@ -21,6 +22,7 @@ int main()
                 min = a[i];
             }
         }
+        
         int c=0;
         if(n>1)
         {
@@ -40,6 +42,7 @@ int main()
                 cout<<"Lucky"<<"\n";
             }
         }
+        
         else
         {
             cout<<"Lucky"<<"\n";
