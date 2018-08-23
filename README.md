@@ -1,2 +1,2 @@
-# hackerearthcodes
-# hackerearthcodes
+Hackerearth Practice Problems Solutions
+
